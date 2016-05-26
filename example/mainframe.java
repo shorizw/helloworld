@@ -1,5 +1,5 @@
 public class mainframe{
-	//second Commit
+	//second Commited
 	public static void main(String arg[]){
 		System.out.println("Testing GitHub");
 	}
