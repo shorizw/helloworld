@@ -4,6 +4,8 @@ public class mainframe{
 		System.out.println("1]Testing GitHub. ");
 		System.out.println("2]Testing GitHub. ");
 		System.out.println("3]Testing GitHub. ");
+		System.out.println("4]Testing GitHub. ");
+		System.out.println("5]Testing GitHub. ");
 		
 		
 	}
